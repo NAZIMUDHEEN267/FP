@@ -1,0 +1,6 @@
+{
+    "watch": ["Day1"],
+    "ext": "ts,json",
+    "ignore": ["Day1/*.ts"],
+    "exec": "ts-node ./Day1/Code.ts"  
+  }

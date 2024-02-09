@@ -1,0 +1,12 @@
+{
+  "name": "FP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w -p ./Day1/Code.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
